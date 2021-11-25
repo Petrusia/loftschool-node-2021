@@ -1,0 +1,22 @@
+{
+  "name": "loftschool-node-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petrusia/loftschool-node-2021.git"
+  },
+  "author": "Petras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petrusia/loftschool-node-2021/issues"
+  },
+  "homepage": "https://github.com/Petrusia/loftschool-node-2021#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^16.0.3"
+  }
+}
